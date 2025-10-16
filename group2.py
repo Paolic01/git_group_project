@@ -1,4 +1,4 @@
-# 
+# Riga
 def dispari_o_pari(numero):
     if numero % 2 == 0:
         return "pari"
