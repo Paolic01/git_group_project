@@ -8,4 +8,5 @@ def pari_o_dispari(numero):
 if __name__ == "__main__":
     numero = int(input("Inserisci un numero: "))
     print(f"Il numero {numero} è {pari_o_dispari(numero)}")
-    
+
+print("\nModifica di Abdellah")
