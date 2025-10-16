@@ -1,3 +1,4 @@
+# Riga di commento di Flavio
 def pari_o_dispari(numero):
     if numero % 2 == 0:
         return "pari"
